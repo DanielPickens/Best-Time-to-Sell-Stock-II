@@ -5,7 +5,11 @@ var maxProfit = function(prices) {
         }
         return ans;
    
-  /*
+    
+    //time complexity: O(n)
+  //sc: O(n)
+    
+    /*
   Success
 Details 
 Runtime: 72 ms, faster than 89.08% of JavaScript online submissions for Best Time to Buy and Sell Stock II.
