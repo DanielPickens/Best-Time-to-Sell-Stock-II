@@ -1,5 +1,5 @@
 # Best-Time-to-Sell-Stock-II
-MY 4 Line JS solution to the Leetcode: Best Time to Sell Stock II
+My 5 Line JS solution to the Leetcode: Best Time to Sell Stock II
 
 "You are given an integer array prices where prices[i] is the price of a given stock on the ith day.
 
